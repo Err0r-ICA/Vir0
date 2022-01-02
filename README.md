@@ -1,6 +1,6 @@
-# Vir0 - Virus Repository
+# ☣️ Vir0 - Virus Repository ☣️
 
-## Installation
+## 💿 Installation 💿
 ```
 pkg update -y;pkg upgrade -y
 git clone https://github.com/Err0r-ICA/Vir0
@@ -8,10 +8,10 @@ cd Vir0
 python2 Vir0
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/Sy6jRRrB/Screenshot-20200425-145623-Termux.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
